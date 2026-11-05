@@ -1,0 +1,15 @@
+# Carpetas generadas por Unreal
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vs/
+
+# Archivos de solución y usuario
+*.sln
+*.suo
+*.opensdf
+*.VC.db
+*.pdb  
+*.obj.
